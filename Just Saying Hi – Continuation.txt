@@ -14917,7 +14917,7 @@
             "npc.Jonghyuk.married.feast_of_the_winter_star.1": "Happy Winter Star! Best gift is you.",    
             "npc.Jonghyuk.married.feast_of_the_winter_star.2": "Let’s decorate together.",    
             "npc.Jonghyuk.married.feast_of_the_winter_star.3": "You shine brighter than the lights.",    
-            "npc.Jonghyuk.married.feast_of_the_winter_star.4": "I’d still pick you over presents."
+            "npc.Jonghyuk.married.feast_of_the_winter_star.4": "I’d still pick you over presents.",
 
         //character: Ripley
             "npc.Clara.Ripley.h0_3.morning.1": "Mornin', sugar! Smell that fresh dirt?",
