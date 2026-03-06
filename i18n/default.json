@@ -3473,7 +3473,7 @@
             "npc.claire.married.egg_festival.4": "I'll cheer for you.",
             "npc.claire.married.flower_dance.1": "I hope I don't mess up the steps...",
             "npc.claire.married.flower_dance.2": "I'm not sure about dancing...",
-            "npc.claire.married.flower_dance.3": "You look very beautiful.",
+            "npc.claire.married.flower_dance.3": "You look very beautiful, {{Player}}.",
             "npc.claire.married.flower_dance.4": "I really like the flowers there.",
             "npc.claire.married.first_day_summer.1": "Summer's finally here!",
             "npc.claire.married.luau.1": "I'll just find a quiet spot...",
@@ -3498,10 +3498,10 @@
             "npc.claire.married.festival_of_ice.2": "I prepared you a warm coat.",
             "npc.claire.married.festival_of_ice.3": "Be careful on the ice!",
             "npc.claire.married.festival_of_ice.4": "Let's make a snowman later.",
-            "npc.claire.married.feast_of_the_winter_star.1": "Happy Winter Star!",
+            "npc.claire.married.feast_of_the_winter_star.1": "Happy Winter Star, {{Player}}!",
             "npc.claire.married.feast_of_the_winter_star.2": "I hope you'll like your gift.",
             "npc.claire.married.feast_of_the_winter_star.3": "I wonder what everyone else will get.",
-            "npc.claire.married.feast_of_the_winter_star.4": "I'm thankful for you and our life.",
+            "npc.claire.married.feast_of_the_winter_star.4": "I'm thankful for you and our life, {{Player}}.",
 
         //character: Lance
             "npc.lance.h0_3.morning.1": "Greetings.",
